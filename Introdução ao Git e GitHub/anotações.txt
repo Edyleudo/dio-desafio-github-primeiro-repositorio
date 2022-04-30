@@ -1,0 +1,20 @@
+ls -a  (mostra arquivos ocultos)
+mkdir (criar pasta)
+git init (inicializa um repositorio git na pasta)
+git add * (adicionar arquivo pra área de stage)
+git status (mostra o status do diretorio)
+git commit -m "mensagem" (fazer o commit)
+git push origim main (fazer push para o git)
+git pull origim main (quando há colflitos, para pegar o código anterior)
+
+ORDEM
+1º adiciona
+2º confere status
+3º dar commit
+4º fazer um push
+
+
+CONFIGURAÇÃO INICIAL DO GIT
+git config --global  user.email "edyleudo@hotmail.com"
+
+git config --global user.name perkles
